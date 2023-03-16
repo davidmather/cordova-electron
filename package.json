@@ -20,7 +20,7 @@
     "test:unit": "jasmine --config=tests/spec/unit.json"
   },
   "dependencies": {
-    "cordova-common": "^4.0.2",
+    "cordova-common": "^4.1.0",
     "electron": "^19.0.3",
     "electron-builder": "^23.0.3",
     "electron-devtools-installer": "^3.2.0",
